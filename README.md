@@ -30,7 +30,7 @@ mvn test
 ```
 
 ## Usage
-After running the test suite, there should be some testing passing and failing
+After running the test suite, there should be some tests passing and failing
 ```
 Tests run: 8, Failures: 4, Errors: 0, Skipped: 0
 ```
